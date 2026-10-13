@@ -1,0 +1,6 @@
+[
+  {"name": "Onboarding v2", "start": "2025-01-01", "end": "2025-02-15", "owner": "Alice", "status": "in progress"},
+  {"name": "Payments API", "start": "2025-02-01", "end": "2025-03-30", "owner": "Bob", "status": "planned"},
+  {"name": "Mobile App", "start": "2025-03-01", "end": "2025-06-30", "owner": "Carol", "status": "planned"},
+  {"name": "Analytics v2", "start": "2025-04-01", "end": "2025-05-20", "owner": "Dave", "status": "planned"}
+]
